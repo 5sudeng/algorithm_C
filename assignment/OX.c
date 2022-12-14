@@ -2,7 +2,7 @@
 
 int main(void){
     int n;
-    char arr[80];
+    char arr[80] = {0} ;
     scanf("%d", &n);
     
     for(int i=0;i<n;i++){
