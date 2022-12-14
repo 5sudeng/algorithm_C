@@ -50,4 +50,5 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+//element = row >> j & 1 (j n-1 to 0)
 //5 9 20 28 18 11 30 1 21 17 28
